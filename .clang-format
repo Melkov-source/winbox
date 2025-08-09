@@ -1,0 +1,13 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+TabWidth: 4
+UseTab: ForIndentation      # Используем табы для отступов
+BreakBeforeBraces: Allman    # Фигурные скобки на новой строке (Allman стиль)
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: Inline
+SpaceBeforeParens: ControlStatements
+SpacesInParentheses: false
+PointerAlignment: Right
+ColumnLimit: 80
+IndentCaseLabels: true

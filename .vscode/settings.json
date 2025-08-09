@@ -1,6 +1,10 @@
 {
-    "files.associations": {
-        "scrn.h": "c",
-        "box.h": "c"
-    }
+  "C_Cpp.clang_format_fallbackStyle": "file",
+  "editor.formatOnSave": true,
+  "[c]": {
+    "editor.defaultFormatter": "xaver.clang-format"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  }
 }
