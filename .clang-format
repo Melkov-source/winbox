@@ -9,5 +9,5 @@ AllowShortFunctionsOnASingleLine: Inline
 SpaceBeforeParens: ControlStatements
 SpacesInParentheses: false
 PointerAlignment: Right
-ColumnLimit: 80
+ColumnLimit: 120
 IndentCaseLabels: true

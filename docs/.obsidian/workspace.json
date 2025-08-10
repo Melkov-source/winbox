@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tutorials & Courses.md",
+                "file": "Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tutorials & Courses"
+              "title": "Projects"
             }
           }
         ],
@@ -185,8 +185,11 @@
   },
   "active": "5c3dca207e381eff",
   "lastOpenFiles": [
-    "C - Introduction.md",
+    "HTTP Server.md",
+    "Projects.md",
     "Tutorials & Courses.md",
+    "Untitled",
+    "C - Introduction.md",
     "Welcome.md"
   ]
 }
